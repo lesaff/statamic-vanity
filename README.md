@@ -5,6 +5,8 @@ Version 1.0.0
 ## What is this?
 This addon allow editing of `vanity.yaml` directly from the CP
 
+![screen shot 2015-05-25 at 10 15 19 am](https://cloud.githubusercontent.com/assets/1151181/7797773/2f788d60-02c7-11e5-9d7e-97d0081c1699.png)
+
 ## Changelog
 1.0.0 - Initial release
 
