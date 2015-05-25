@@ -1,0 +1,5 @@
+textarea.code {font-family:Consolas,Monaco,Lucida Console,Liberation Mono,DejaVu Sans Mono,Bitstream Vera Sans Mono,Courier New, monospace;color:#900;}
+/* Style */
+pre.prettyprint {background: #efeeeb; font-family: Menlo, "Bitstream Vera Sans Mono", "DejaVu Sans Mono", Monaco, Consolas, monospace; border: 1px solid #cccccc; padding: 10px; }
+pre.prettyprint {padding: 15px !important; position: relative; border: 1px solid #ddd !important; }
+pre.prettyprint.template:before {background: rgba(255, 255, 255, 0.1); content: "template"; color: #fff; font-family: "Open Sans", "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif; font-size: 13px; padding: 5px 10px; position: absolute; right: 0; text-transform: uppercase; top: 0; }
