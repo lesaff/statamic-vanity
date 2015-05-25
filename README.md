@@ -13,6 +13,8 @@ This addon allow editing of `vanity.yaml` directly from the CP
 ## Installation
 Copy the `statamic-vanity` folder to the `_add-ons` folder in your Statamic website.
 
+Add `vanity: true` to your `_admin_nav` in your `settings.yaml` file.
+
 ## How to use
 
 Select/click the `Vanity URL` link from your control bar in your Control Panel.
