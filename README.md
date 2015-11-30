@@ -1,6 +1,9 @@
 # Statamic CP interface for vanity url redirects
-By Rudy Affandi (2015)
+By Rudy Affandi (2015)  
 Version 1.0.0
+
+## Note
+Vanity will be available right in the CP on Statamic V2 as a built-in functionality. 
 
 ## What is this?
 This addon allow editing of `vanity.yaml` directly from the CP
